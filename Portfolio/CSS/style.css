@@ -1,0 +1,43 @@
+.video {
+    width: 60rem;
+    align-content: center;
+    display: block;
+    margin: 0 auto;
+}
+.name {
+    font-size: 85px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #453f3f;
+    color: #312a2a;
+}
+.caption {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.about {
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 40px;
+}
+body {
+    background-color: #cbc8c2;
+}
+.card {
+    background-color: #e4e4e2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.names {
+    padding-left: 40px;
+    padding-top: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.name2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.navbar {
+    background-color: #a6a39d !important;
+    border-top: 1px solid black;
+}
